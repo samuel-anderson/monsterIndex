@@ -4,8 +4,8 @@
   background-color: #95dada;
   border: 1px solid grey;
   padding: 25px;
-  border-radius: 5px;
   cursor: pointer;
+  border-radius: 5px;
   -moz-osx-font-smoothing: grayscale;
   backface-visibility: hidden;
   transform: translateZ(0);
